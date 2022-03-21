@@ -1360,7 +1360,7 @@
  	 	 	 	"eng": "CyberTunnel VPN"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Preocupado o irmão mais velho espiando você enquanto você navega no ciberespaço? \r\n         Suas intercomunos sempre são hackeadas por ataques maliciosos? \r\n         Use o Cybertunnel VPN para proteger e criptografar sua experiência de Netrunning! \r\n        \r\n         Uma vez ativado, ignora qualquer exploração de bate-papo por 1 hora",
+ 	 	 	 	"trans": "Preocupado com o irmão mais velho te espiando enquanto você navega no ciberespaço? \r\n         Suas intercomunos sempre são hackeadas por ataques maliciosos? \r\n         Use o Cybertunnel VPN para proteger e criptografar sua experiência de Netrunning! \r\n        \r\n         Uma vez ativado, ignora qualquer exploração de bate-papo por 1 hora",
  	 	 	 	"eng": "Worried the Big Brother spying on you while you browse the cyberspace?\r\n        your intercoms always get hacked by malicious attacks? \r\n        use CyberTunnel VPN to protect and encrypt your netrunning experience! \r\n        \r\n        Once activated, ignores any chat exploit for 1 hour"
  	 	 	}
  	 	},
@@ -1428,7 +1428,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"escape"
  	 	 	 	],
- 	 	 	 	"trans": "Uma granada flash que pode ser usada para cegar inimigos. Aumentando sua chance de escapar por ${escape}%",
+ 	 	 	 	"trans": "Uma granada de luz que pode ser usada para cegar inimigos. Aumenta sua chance de escapar por ${escape}%",
  	 	 	 	"eng": "A flash grenade that can be used to blind enemies. increasing your chance of escape by ${escape}%"
  	 	 	}
  	 	},
@@ -1484,7 +1484,7 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Aumente seu Rank de Impressão sem usar sucatas de tecnologia, isto vai te ajudar a aumentar o level das suas impressões.",
+ 	 	 	 	"trans": "Aumente seu Rank de Impressão sem usar sucatas de tecnologia, isto vai te ajudar a aumentar o nivel das suas impressões.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -1614,31 +1614,31 @@
  	 	},
  	 	"common": {
  	 	 	"name": {
- 	 	 	 	"trans": "comum",
+ 	 	 	 	"trans": "Comum",
  	 	 	 	"eng": "common"
  	 	 	}
  	 	},
  	 	"highQuality": {
  	 	 	"name": {
- 	 	 	 	"trans": "alta qualidade",
+ 	 	 	 	"trans": "Alta Qualidade",
  	 	 	 	"eng": "high quality"
  	 	 	}
  	 	},
  	 	"rare": {
  	 	 	"name": {
- 	 	 	 	"trans": "raro",
+ 	 	 	 	"trans": "Raro",
  	 	 	 	"eng": "rare"
  	 	 	}
  	 	},
  	 	"legendary": {
  	 	 	"name": {
- 	 	 	 	"trans": "lendário",
+ 	 	 	 	"trans": "Lendário",
  	 	 	 	"eng": "legendary"
  	 	 	}
  	 	},
  	 	"epic": {
  	 	 	"name": {
- 	 	 	 	"trans": "épico",
+ 	 	 	 	"trans": "Épico",
  	 	 	 	"eng": "epic"
  	 	 	}
  	 	}
@@ -1714,7 +1714,7 @@
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	},
  	 	"enemyInRoomDoorError": {
- 	 	 	"trans": "Você não pode usar porta enquanto ainda há inimigo no quarto",
+ 	 	 	"trans": "Você não pode usar a porta enquanto ainda há inimigo no comodo",
  	 	 	"eng": "You cannot use door while there is still enemy in room"
  	 	},
  	 	"enemyInCrateDoorError": {
@@ -1730,7 +1730,7 @@
  	 	 	"eng": "Send Invite To Chat"
  	 	},
  	 	"leaveDungeon": {
- 	 	 	"trans": "Deixe o masmorra",
+ 	 	 	"trans": "Deixar masmorra",
  	 	 	"eng": "Leave dungeon"
  	 	},
  	 	"quest": {
@@ -1773,7 +1773,7 @@
  	 	 	"vars": [
  	 	 	 	"segmentDisplayName"
  	 	 	],
- 	 	 	"trans": "Adquira 3 fragmentos de chave diferentes em cada calabouço localizado em ${segmentDisplayName},\r\n                eles são usados para criar a chave para a próxima área.\r\n                Para criar a chave, vá para o terminal em [Hub Central]",
+ 	 	 	"trans": "Adquira 3 fragmentos de chave diferentes em cada masmorra localizada em ${segmentDisplayName},\r\n                eles são usados para criar a chave para a próxima área.\r\n                Para criar a chave, vá para o terminal em [Hub Central]",
  	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]",
  	 	 	"name": {
  	 	 	 	"vars": [
@@ -1786,20 +1786,20 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Adquira 3 fragmentos de chave diferentes em cada calabouço localizado em ${segmentDisplayName},\r\n                eles são usados para criar a chave para a próxima área.\r\n                Para criar a chave, vá para o terminal em [Hub Central]",
+ 	 	 	 	"trans": "Adquira 3 fragmentos de chave diferentes em cada masmorra localizada em ${segmentDisplayName},\r\n                eles são usados para criar a chave para a próxima área.\r\n                Para criar a chave, vá para o terminal em [Hub Central]",
  	 	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	 	}
  	 	},
  	 	"random": {
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "guerreiro da masmorra",
+ 	 	 	 	 	"trans": "Guerreiro da Masmorra",
  	 	 	 	 	"eng": "dungeon warrior"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "amigos da masmorra",
+ 	 	 	 	 	"trans": "Amigos de Masmorra",
  	 	 	 	 	"eng": "dungeon friends"
  	 	 	 	}
  	 	 	},
@@ -1822,7 +1822,7 @@
  	 	 	 	"eng": "Join Dungeon"
  	 	 	},
  	 	 	"killEnemy": {
- 	 	 	 	"trans": "Matar o inimigo",
+ 	 	 	 	"trans": "Matar inimigo",
  	 	 	 	"eng": "Kill enemy"
  	 	 	},
  	 	 	"getMoney": {
@@ -2013,7 +2013,7 @@
  	 	 	 	"eng": "Status"
  	 	 	},
  	 	 	"numOfMember": {
- 	 	 	 	"trans": "Número de membros",
+ 	 	 	 	"trans": "Número de Membros",
  	 	 	 	"eng": "Number of members"
  	 	 	},
  	 	 	"gangAction": {
@@ -2022,11 +2022,11 @@
  	 	 	 	 	"eng": "Gang Actions"
  	 	 	 	},
  	 	 	 	"kick": {
- 	 	 	 	 	"trans": "expulsar",
+ 	 	 	 	 	"trans": "Expulsar",
  	 	 	 	 	"eng": "Kick"
  	 	 	 	},
  	 	 	 	"transferLeadership": {
- 	 	 	 	 	"trans": "Transferir liderança",
+ 	 	 	 	 	"trans": "Transferir Liderança",
  	 	 	 	 	"eng": "Transfer Leadership"
  	 	 	 	},
  	 	 	 	"editPermissions": {
@@ -2081,7 +2081,7 @@
  	 	 	 	"eng": "Inventory"
  	 	 	},
  	 	 	"changePicture": {
- 	 	 	 	"trans": "Imagem personalizada do perfil é um recurso exclusivo do doador",
+ 	 	 	 	"trans": "Imagem personalizada no perfil é um recurso exclusivo de doadores",
  	 	 	 	"eng": "Custom profile image is a donator exclusive feature"
  	 	 	},
  	 	 	"changePictureDescription": {
@@ -2221,7 +2221,7 @@
  	 	 	 	"eng": "Updates"
  	 	 	},
  	 	 	"tutorial": {
- 	 	 	 	"trans": "tutorial",
+ 	 	 	 	"trans": "Tutorial",
  	 	 	 	"eng": "tutorial"
  	 	 	},
  	 	 	"credits": {
